@@ -2,7 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './styles.css'
 const App = () => {
-
   const estilosBotao = {marginTop:12, paddingTop:8, paddingBottom:8,  backgroundColor:'blueviolet', color: '#FFF',
   border: 'none', borderRadius:8, width:'100%'}
   const textoDoRotulo = 'Nome:'
